@@ -70,7 +70,8 @@ endmodule
 
 **Output/TIMING Waveform**
 ![Screenshot 2024-03-20 101125](https://github.com/Jeshwanthkumarpayyavula/HALF_ADDER_SUBTRACTOR/assets/145742402/ddf532ca-48b2-4755-99fd-0cc39b940d73)
-Developed by: RegisterNumber:*/Jeshwanth Kumar
+### Developed by: P.JESHWANTH KUMAR 
+### RegisterNumber: 212223240114
 
 
 **Result:**
